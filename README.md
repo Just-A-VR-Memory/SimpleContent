@@ -1,5 +1,6 @@
 # About SimpleContent
 > This Simple mod adds a decent amount of new stuff
+This includes Relic and Orbs
 
 # Credits
 
